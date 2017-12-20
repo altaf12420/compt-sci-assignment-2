@@ -1,13 +1,15 @@
 class Player {
 
-  
-  
-  
+
+
+
   Player()
   {
   }
 
   void display() {
-   rect(x,y,10,31);
+
+    rect(x, y, 15, 15);
+  
   }
 }
